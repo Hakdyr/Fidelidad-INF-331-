@@ -1,5 +1,5 @@
 # Fidelidad-INF-331-
-
+Propietario: Joaquín Aguilera (201930003-2)
 ## Estructura/Diagrama
 
 ```yaml
